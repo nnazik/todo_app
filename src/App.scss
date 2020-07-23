@@ -1,0 +1,13 @@
+.App-body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+$headerColor: rgb(0, 132, 255);
+
+h2 {
+  color: $headerColor;
+}
